@@ -1,0 +1,3 @@
+rootProject.name = 'tms-c28'
+include 'lesson6-classes'
+
