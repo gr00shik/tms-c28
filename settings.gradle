@@ -1,4 +1,5 @@
 rootProject.name = 'tms-c28'
 include 'lesson6-classes'
 include 'lesson7-interface'
+include 'lesson8oop'
 
