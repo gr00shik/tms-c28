@@ -3,4 +3,8 @@ include 'lesson6-classes'
 include 'lesson7-interface'
 include 'lesson8oop'
 include 'lesson9static'
+include 'lesson10object'
+include 'lesson11string'
+include 'lesson8_1'
+include 'lesson12'
 
