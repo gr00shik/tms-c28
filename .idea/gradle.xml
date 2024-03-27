@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/lesson10object" />
+            <option value="$PROJECT_DIR$/lesson11string" />
+            <option value="$PROJECT_DIR$/lesson12" />
+            <option value="$PROJECT_DIR$/lesson13io" />
+            <option value="$PROJECT_DIR$/lesson14-collection" />
+            <option value="$PROJECT_DIR$/lesson6-classes" />
+            <option value="$PROJECT_DIR$/lesson7-interface" />
+            <option value="$PROJECT_DIR$/lesson8_1" />
+            <option value="$PROJECT_DIR$/lesson8oop" />
+            <option value="$PROJECT_DIR$/lesson9static" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
