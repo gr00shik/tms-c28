@@ -109,12 +109,12 @@ public class MainCollection {
 
         /*
 
-                    ArrayList   LinkedList
+                    ArrayList   LinkedList              HashSet                 TreeSet
 
-         add          O(n)         O(n/2) O(1)
-         delete       O(n)         O(n/2) O(1)
-         contains     O(n)         O(n)
-         get          O(1)         O(n/2)
+         add          O(n)         O(n) O(1)           <O(1)> O(n) O(lg)            O(lgn)
+         delete       O(n)         O(n) O(1)            <O(1)> O(n) O(lg)           O(lgn)
+         contains     O(n)         O(n)                 <O(1)> O(n) O(lg)           O(lgn)
+         get          O(1)         O(n/2)               -//-                          -//-
 
          O(1) - не зависит от величины коллекции
          O(n) - зависит от количества элементов
