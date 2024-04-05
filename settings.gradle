@@ -10,4 +10,8 @@ include 'lesson12'
 include 'lesson13io'
 include 'lesson14-collection'
 include 'lesson15-collection2'
+include 'lesson16-map'
+include 'untitled'
+include 'module17-lambda'
+include 'lesson17-lambda'
 

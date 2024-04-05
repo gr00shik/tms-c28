@@ -14,11 +14,16 @@
             <option value="$PROJECT_DIR$/lesson12" />
             <option value="$PROJECT_DIR$/lesson13io" />
             <option value="$PROJECT_DIR$/lesson14-collection" />
+            <option value="$PROJECT_DIR$/lesson15-collection2" />
+            <option value="$PROJECT_DIR$/lesson16-map" />
+            <option value="$PROJECT_DIR$/lesson17-lambda" />
             <option value="$PROJECT_DIR$/lesson6-classes" />
             <option value="$PROJECT_DIR$/lesson7-interface" />
             <option value="$PROJECT_DIR$/lesson8_1" />
             <option value="$PROJECT_DIR$/lesson8oop" />
             <option value="$PROJECT_DIR$/lesson9static" />
+            <option value="$PROJECT_DIR$/module17-lambda" />
+            <option value="$PROJECT_DIR$/untitled" />
           </set>
         </option>
       </GradleProjectSettings>
